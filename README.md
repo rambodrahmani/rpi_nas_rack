@@ -1,2 +1,4 @@
-# rpi_nas_rack
-3D Printable Raspberry Pi Nas Rack
+# RPi NAS Rack
+
+3D Printable Raspberry Pi NAS Rack
+
